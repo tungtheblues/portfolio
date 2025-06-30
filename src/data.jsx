@@ -41,8 +41,8 @@ export const projects = [
   {
     id: nanoid(),
     img: "/2.png",
-    url: "https://react-projects.netlify.app/",
-    github: "https://github.com/john-smilga",
+    url: "https://usepopcorn-tung.vercel.app/",
+    github: "https://github.com/tungtheblues/usepopcorn",
     title: "usePopcorn",
     text: "映画愛好家のためのReactアプリケーションです。OMDB APIを使って映画を検索し、詳細情報を表示できます。ユーザーは観た映画に星評価を付け、ウォッチリストを作成・管理できます。",
   },
