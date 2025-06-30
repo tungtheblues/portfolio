@@ -49,8 +49,8 @@ export const projects = [
   {
     id: nanoid(),
     img: "./src/assets/3.png",
-    url: "https://react-projects.netlify.app/",
-    github: "https://github.com/john-smilga",
+    url: "https://portfolio-tung.vercel.app/",
+    github: "https://github.com/tungtheblues/portfolio",
     title: "ポートフォリオ",
     text: "モダンなReact技術スタックを使用して構築された個人ポートフォリオサイトです。Vite、TailwindCSS、React Iconsを組み合わせて、レスポンシブで美しいUIを実現しています。",
   },
