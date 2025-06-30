@@ -32,7 +32,7 @@ export const skills = [
 export const projects = [
   {
     id: nanoid(),
-    img: "./src/assets/1.png",
+    img: "public/1.png",
     url: "https://react-projects.netlify.app/",
     github: "https://github.com/john-smilga",
     title: "Pizza order",
@@ -40,7 +40,7 @@ export const projects = [
   },
   {
     id: nanoid(),
-    img: "./src/assets/2.png",
+    img: "public/2.png",
     url: "https://react-projects.netlify.app/",
     github: "https://github.com/john-smilga",
     title: "usePopcorn",
@@ -48,7 +48,7 @@ export const projects = [
   },
   {
     id: nanoid(),
-    img: "./src/assets/3.png",
+    img: "public/3.png",
     url: "https://portfolio-tung.vercel.app/",
     github: "https://github.com/tungtheblues/portfolio",
     title: "ポートフォリオ",
