@@ -33,8 +33,8 @@ export const projects = [
   {
     id: nanoid(),
     img: "/1.png",
-    url: "https://react-projects.netlify.app/",
-    github: "https://github.com/john-smilga",
+    url: "https://react-pizza-tung.vercel.app/",
+    github: "https://github.com/tungtheblues/react-pizza-tung",
     title: "Pizza order",
     text: "React + Redux Toolkit + Viteを使用して構築されたモダンなピザデリバリーアプリケーションです。ユーザーはメニューの閲覧、カートへの商品追加、注文作成、注文追跡が可能です。",
   },
